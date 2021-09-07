@@ -23,11 +23,11 @@ const CONFIG = {
   greetingNight: 'Go to Sleep!',
 
   // Weather
-  weatherKey: 'InsertYourAPIKeyHere123456',
+  weatherKey: '6b9711138a6e9b6b863b098702a972f3',
   weatherIcons: 'OneDark', // 'Nord', 'Dark', 'White'
   weatherUnit: 'C',
-  weatherLatitude: '37.774929',
-  weatherLongitude: '-122.419418',
+  weatherLatitude: '18.493790',
+  weatherLongitude: '-88.298531',
 
   // ┌─┐┌─┐┬─┐┌┬┐┌─┐
   // │  ├─┤├┬┘ ││└─┐
@@ -45,13 +45,13 @@ const CONFIG = {
       id: '2',
       name: 'Mail',
       icon: 'mail',
-      link: 'https://outlook.office.com/mail/inbox',
+      link: 'https://mail.google.com/',
     },
     {
       id: '3',
-      name: 'Moodle',
-      icon: 'book',
-      link: 'https://intranet.matematicas.uady.mx/enlinea2_ago21/my/',
+      name: 'Twitch',
+      icon: 'twitch',
+      link: 'https://www.twitch.tv/',
     },
     {
       id: '4',
@@ -85,38 +85,38 @@ const CONFIG = {
   lists: {
     firstList: [
       {
-        name: 'Inspirational',
-        link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+        name: 'Favorite',
+        link: 'https://www.youtube.com/watch?v=BZNtxpO9DoA',
       },
       {
-        name: 'Classic',
-        link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
-      },
-      {
-        name: 'Oldies',
-        link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+        name: 'Oldie',
+        link: 'https://www.youtube.com/watch?v=zzIOxHIZEis',
       },
       {
         name: 'Rock',
-        link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+        link: 'https://www.youtube.com/watch?v=1-W6whvn8Bs',
+      },
+      {
+        name: 'Recommendation',
+        link: 'https://www.youtube.com/watch?v=hBINDKALYrw',
       },
     ],
     secondList: [
       {
-        name: 'Linkedin',
-        link: 'https://linkedin.com/',
+        name: 'Moodle',
+        link: 'https://intranet.matematicas.uady.mx/',
       },
       {
-        name: 'Figma',
-        link: 'https://figma.com/',
+        name: 'Outlook',
+        link: 'https://outlook.office.com/',
       },
       {
-        name: 'Dribbble',
-        link: 'https://dribbble.com',
+        name: 'Uady Virtual',
+        link: 'https://es.uadyvirtual.uady.mx/',
       },
       {
-        name: 'Telegram',
-        link: 'https://webk.telegram.org',
+        name: 'Office',
+        link: 'https://www.office.com/',
       },
     ],
   },
