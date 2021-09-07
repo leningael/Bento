@@ -79,7 +79,7 @@ const CONFIG = {
 
   //Icons
   firstListIcon: 'music',
-  secondListIcon: 'coffee',
+  secondListIcon: 'book',
 
   // Links
   lists: {
@@ -104,7 +104,7 @@ const CONFIG = {
     secondList: [
       {
         name: 'Moodle',
-        link: 'https://intranet.matematicas.uady.mx/',
+        link: 'https://intranet.matematicas.uady.mx/enlinea2_ago21/',
       },
       {
         name: 'Outlook',
